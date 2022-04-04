@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 
 31-3-2022- updating this line in UAT branch in remote repository
 This line is added by sri
+=======
+Adding a new file for stash testing
+>>>>>>> stage
 This file contains the code foe photos
 
 Photo can be uploaded
 
+<<<<<<< HEAD
 
 Hello am updating this new line
 
@@ -13,3 +18,10 @@ Hello am updating this new line
 02-04-22 : updating this line for git fetch command !! Have a great weekend and Happy learning.
 Updated this line by sri ....to execute git pull command
 
+=======
+Hello am updating this new line
+Commit 1
+commit 2
+commit 3
+commit 4
+>>>>>>> stage
